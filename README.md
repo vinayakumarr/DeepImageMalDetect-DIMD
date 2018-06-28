@@ -1,1 +1,1 @@
-# DeepImageMalDetect-DIMD-
+# DeepImageMalDetect-DIMD
